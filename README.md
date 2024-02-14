@@ -12,3 +12,4 @@ Here is an example of the starting screen. Users will have to choose between the
 ## Usage 🚀
 ### 1. Clone the Repository
 ```
+https://github.com/DDhartanto/Treasure-Island-Game.git
