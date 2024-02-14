@@ -14,9 +14,9 @@ Here is an example of the starting screen. Users will have to choose between the
 ```
 https://github.com/DDhartanto/Treasure-Island-Game.git
 ```
-## Demo of the Game being played
+## Demo of a player who made all the right choices
 <img width="756" alt="Screenshot 2024-02-13 211638" src="https://github.com/DDhartanto/Treasure-Island-Game/assets/130509435/0d0b308d-afe4-4271-a084-a0e93ad9f94e">
-Here is an example of a player who made all the right choices.
 
+## Demo of a player who made the wrong choice
 <img width="598" alt="Screenshot 2024-02-13 211659" src="https://github.com/DDhartanto/Treasure-Island-Game/assets/130509435/a5e00b3d-aec8-4405-9c7c-8d5a1b764f22">
-Here is an example of a player who made the wrong choice.
+
